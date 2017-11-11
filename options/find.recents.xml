@@ -1,0 +1,39 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>wid</find>
+      <find>lwi</find>
+      <find>Iwid</find>
+      <find>last-li</find>
+      <find>emp</find>
+      <find>echo</find>
+      <find>$</find>
+      <find>cate</find>
+      <find>ro</find>
+      <find>over</find>
+      <find>cente</find>
+      <find>bo</find>
+      <find>margin</find>
+      <find>db</find>
+      <find>wp_</find>
+      <find>wp</find>
+      <find>utf8mb4_unicode_520_ci</find>
+      <find>collate</find>
+      <find>pet-</find>
+      <find>colli</find>
+      <find>ftp</find>
+      <find>pref</find>
+      <find>post</find>
+      <find>sho</find>
+      <find>shor</find>
+      <find>show</find>
+      <find>short</find>
+      <find>flex</find>
+      <find>grs</find>
+      <find>id</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/projects/ridestore/node_modules/gulp-add-src</dir>
+    </dirStrings>
+  </component>
+</application>

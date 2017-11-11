@@ -1,0 +1,37 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="16" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="77" />
+    <property name="PLUGIN_FILTER" value="dock&#10;wo&#10;rub" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/wp-catalog-demo/db_backup.sql&#10;/home/nick/projects/wp-catalog-demo/wp-content&#10;/home/nick/projects/joomla-catalog-demo&#10;/home/nick/projects/wp-catalog-demo&#10;/home/nick/projects/auto&#10;/home/nick/projects/veda&#10;/home/nick/projects&#10;/home/nick/projects/kfp&#10;/home/nick/projects/knigaza&#10;/home/nick/projects/ridestore&#10;/home/nick/projects/hello-react&#10;/home/nick/Downloads/testAssignment&#10;/home/nick/projects/nmikhno-skatecamp&#10;/media/nick/AC14FA8514FA51B6/work/gbk/tivus/angular&#10;/home/nick/projects/nmikhno-skatecamp/project&#10;/var/www/test.loc/public_html&#10;/home/nick/Downloads/ruby.tmbundle&#10;/home/nick/redmine-2.6.10-3/apps/redmine/htdocs/plugins/estimates&#10;/home/nick/Downloads/ruby-2016.2.20160726.zip" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="fileTypeChangedCounter" value="22" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="KEYMAP" value="reform" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.2758007" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+    <property name="evlsprt.162" value="156ed3c3efc" />
+    <property name="evlsprt2.162" value="1591206edd0" />
+    <property name="SplitFileEditor.Proportion" value="0.36782786" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7022654" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.2001675" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.7813248" />
+    <property name="clt.console.in.toolwindow" value="false" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="9" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="selected.color.option.type" value="TDIFF_EXCLUDED_COLUMN" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="idea&#10;word" />
+    <property name="ColorChooser.RecentColors" value="207-207-207-255,,,255-255-255-255,,,192-192-192-255,,,27-27-27-76,,,130-130-130-76,,,15-130-28-76,,,85-22-17-255,,,245-57-22-255,,,55-207-34-255,,,245-52-51-255,,,55-207-34-76,,,245-52-51-76" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+  </component>
+</application>

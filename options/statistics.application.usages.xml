@@ -1,0 +1,298 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="knigaza" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1494761849887" />
+    </group>
+    <group name="Command line tool">
+      <project id="ridestore" values="console in popup" collectionTime="1491085535816" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="joomla-catalog-demo" values="not installed" collectionTime="1509091431825" />
+      <project id="now-hiring" values="not installed" collectionTime="1509117125738" />
+      <project id="ridestore" values="not installed" collectionTime="1491085535816" />
+      <project id="flex-demo" values="not installed" collectionTime="1484856702765" />
+      <project id="wp-catalog-demo" values="not installed" collectionTime="1509878138693" />
+      <project id="html-responsive-demo" values="not installed" collectionTime="1480925120095" />
+      <project id="testAssignment" values="not installed" collectionTime="1483477847110" />
+      <project id="angular" values="not installed" collectionTime="1482701222653" />
+      <project id="knigaza" values="not installed" collectionTime="1494761849938" />
+      <project id="nmikhno-skatecamp" values="not installed" collectionTime="1482773008718" />
+      <project id="landing3" values="not installed" collectionTime="1509039578039" />
+      <project id="kfp" values="not installed" collectionTime="1501181240178" />
+      <project id="ts-demo" values="not installed" collectionTime="1496434981600" />
+      <project id="project" values="not installed" collectionTime="1482953300105" />
+      <project id="untitled" values="not installed" collectionTime="1470267259604" />
+    </group>
+    <group name="vcs">
+      <project id="ts-demo" values="Git" collectionTime="1496434981426" />
+      <project id="project" values="Git" collectionTime="1482953299077" />
+      <project id="landing3" values="Git" collectionTime="1509039577691" />
+      <project id="knigaza" values="Git" collectionTime="1494761848309" />
+      <project id="wp-catalog-demo" values="Git" collectionTime="1509878138623" />
+      <project id="now-hiring" values="Git" collectionTime="1509117125618" />
+      <project id="angular" values="Git" collectionTime="1482701222570" />
+      <project id="testAssignment" values="Git" collectionTime="1483477846541" />
+      <project id="nmikhno-skatecamp" values="Git" collectionTime="1482773008481" />
+      <project id="ridestore" values="Git" collectionTime="1491085535495" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="ts-demo" values="data.commit.count.0,data.git.root.count.1" collectionTime="1496434981504" />
+      <project id="project" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1482953299218" />
+      <project id="landing3" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1509039577888" />
+      <project id="knigaza" values="data.commit.count.0,data.git.root.count.1" collectionTime="1494761848734" />
+      <project id="wp-catalog-demo" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1509878138675" />
+      <project id="now-hiring" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1509117125728" />
+      <project id="angular" values="data.git.root.count.1,data.commit.count.1K+" collectionTime="1482701222645" />
+      <project id="testAssignment" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1483477846586" />
+      <project id="nmikhno-skatecamp" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1482773008641" />
+      <project id="ridestore" values="data.commit.count.1K+,data.git.root.count.1" collectionTime="1491085535677" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="nmikhno-skatecamp" values="ui.sort.linear.bek.disabled,ui.sort.normal.enabled,ui.branches.panel.disabled,ui.highlighter.MY_COMMITS.enabled,ui.details.enabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.long.edges.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.sort.bek.disabled" collectionTime="1482773008641" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="knigaza" values="JavascriptDebugType" collectionTime="1494761848334" />
+    </group>
+    <group name="file-type">
+      <project id="joomla-catalog-demo" values="JavaScript,Images,UNKNOWN,JSON Schema,HTML,Ini,Markdown,CSS,PLAIN_TEXT,Less,XML,PHP,SQL,htaccess" collectionTime="1509091431824" />
+      <project id="now-hiring" values="PLAIN_TEXT,JavaScript,Locale,CSS,SCSS,PHP" collectionTime="1509117125727" />
+      <project id="ridestore" values="Markdown,XML,PHP,JSHint,Npm file,JSON Schema,UNKNOWN,JSCS,YAML,JSX Harmony,HTML,JSON,TypeScript,CSS,Images,SourceMap,JavaScript,PLAIN_TEXT,Less,SCSS,Git file,Locale" collectionTime="1491085535559" />
+      <project id="flex-demo" values="CSS,HTML" collectionTime="1484856702087" />
+      <project id="wp-catalog-demo" values="Markdown,JSON Schema,YAML,PHP,XML,Native,ARCHIVE,ReST,CSS,SQL,Images,PLAIN_TEXT,UNKNOWN,HTML,Git file,Dockerfile,SCSS,Locale,ActionScript,htaccess,JavaScript" collectionTime="1509878138672" />
+      <project id="html-responsive-demo" values="HTML,CSS" collectionTime="1480925119249" />
+      <project id="testAssignment" values="HTML,PLAIN_TEXT,Markdown,CSS,JavaScript" collectionTime="1483477846583" />
+      <project id="angular" values="Images,JSON,SCSS,htaccess,SourceMap,Markdown,HTML,XML,PLAIN_TEXT,JavaScript,UNKNOWN,CSS,JSON Schema" collectionTime="1482701222632" />
+      <project id="knigaza" values="HTML,Images,PLAIN_TEXT,Less,UNKNOWN,PHP,JavaScript,Ini,XML,htaccess,YAML,CSS" collectionTime="1494761848705" />
+      <project id="nmikhno-skatecamp" values="PLAIN_TEXT,TypeScript,JSX Harmony,IDEA_MODULE,Images,PHP,CoffeeScript,JSON Schema,Markdown,Sass,JSCS,JSON,SCSS,ARCHIVE,UNKNOWN,Less,SourceMap,XML,CSS,textmate,Smarty,HTML,Locale,C++,JavaScript,SmartyConfig,YAML,JSHint,PATCH" collectionTime="1482773008638" />
+      <project id="landing3" values="HTML,Images,Markdown,Git file,CSS,UNKNOWN" collectionTime="1509039577887" />
+      <project id="kfp" values="SourceMap,SCSS,PHP,Markdown,PLAIN_TEXT,Git file,Smarty,htaccess,Ini,CSS,Locale,Images,JSON Schema,HTML,JavaScript,YAML,SQLite Database,DTD,UNKNOWN,XML" collectionTime="1501181240178" />
+      <project id="ts-demo" values="Git file,TypeScript" collectionTime="1496434981497" />
+      <project id="project" values="TypeScript,SourceMap,Images,XML,PHP,JSON,CSS,JSON Schema,HTML,SCSS,JSCS,PLAIN_TEXT,YAML,Markdown,JavaScript,JSHint,Less,UNKNOWN,JSX Harmony" collectionTime="1482953299204" />
+      <project id="untitled" values="CSS,HTML,XML,PLAIN_TEXT,Images,htaccess,JSON Schema,JSHint,Markdown,JavaScript,YAML,JSCS" collectionTime="1470267258897" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="joomla-catalog-demo" values="0" collectionTime="1509091431826" />
+      <project id="now-hiring" values="0" collectionTime="1509117125775" />
+      <project id="ridestore" values="0" collectionTime="1491085535816" />
+      <project id="flex-demo" values="0" collectionTime="1484856702780" />
+      <project id="wp-catalog-demo" values="0" collectionTime="1509878138707" />
+      <project id="html-responsive-demo" values="0" collectionTime="1480925120108" />
+      <project id="testAssignment" values="0" collectionTime="1483477847114" />
+      <project id="angular" values="0" collectionTime="1482701222654" />
+      <project id="knigaza" values="0" collectionTime="1494761850025" />
+      <project id="nmikhno-skatecamp" values="0" collectionTime="1482773008719" />
+      <project id="landing3" values="0" collectionTime="1509039578073" />
+      <project id="kfp" values="0" collectionTime="1501181240178" />
+      <project id="ts-demo" values="0" collectionTime="1496434981612" />
+      <project id="project" values="0" collectionTime="1482953300131" />
+      <project id="untitled" values="0" collectionTime="1470267259613" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="wp-catalog-demo" values="MySQL/5.5.56-cll-lve,MySQL/5.7.20" collectionTime="1509878138682" />
+    </group>
+    <group name="module type">
+      <project id="joomla-catalog-demo" values="WEB_MODULE" collectionTime="1509091431679" />
+      <project id="now-hiring" values="WEB_MODULE" collectionTime="1509117125619" />
+      <project id="ridestore" values="WEB_MODULE" collectionTime="1491085535495" />
+      <project id="flex-demo" values="WEB_MODULE" collectionTime="1484856701853" />
+      <project id="wp-catalog-demo" values="WEB_MODULE" collectionTime="1509878138625" />
+      <project id="html-responsive-demo" values="WEB_MODULE" collectionTime="1480925119134" />
+      <project id="testAssignment" values="WEB_MODULE" collectionTime="1483477846542" />
+      <project id="angular" values="WEB_MODULE" collectionTime="1482701222570" />
+      <project id="knigaza" values="WEB_MODULE" collectionTime="1494761848311" />
+      <project id="nmikhno-skatecamp" values="WEB_MODULE" collectionTime="1482773008481" />
+      <project id="landing3" values="WEB_MODULE" collectionTime="1509039577693" />
+      <project id="kfp" values="WEB_MODULE" collectionTime="1501181240161" />
+      <project id="ts-demo" values="WEB_MODULE" collectionTime="1496434981428" />
+      <project id="project" values="WEB_MODULE" collectionTime="1482953299079" />
+      <project id="untitled" values="WEB_MODULE" collectionTime="1470267258857" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="wp-catalog-demo" values="com.mysql.jdbc.Driver,com.mysql.jdbc.Driver" collectionTime="1509878138682" />
+    </group>
+    <group name="deployment server">
+      <project id="wp-catalog-demo" values="FTP" collectionTime="1509878138678" />
+      <project id="kfp" values="FTP" collectionTime="1501181240178" />
+      <project id="knigaza" values="FTP" collectionTime="1494761848758" />
+    </group>
+    <group name="php-interpreters">
+      <project id="joomla-catalog-demo" values="0" collectionTime="1509091431826" />
+      <project id="now-hiring" values="0" collectionTime="1509117125772" />
+      <project id="ridestore" values="0" collectionTime="1491085535816" />
+      <project id="flex-demo" values="0" collectionTime="1484856702778" />
+      <project id="wp-catalog-demo" values="0" collectionTime="1509878138703" />
+      <project id="html-responsive-demo" values="0" collectionTime="1480925120106" />
+      <project id="testAssignment" values="0" collectionTime="1483477847111" />
+      <project id="angular" values="0" collectionTime="1482701222653" />
+      <project id="knigaza" values="0" collectionTime="1494761850021" />
+      <project id="nmikhno-skatecamp" values="0" collectionTime="1482773008718" />
+      <project id="landing3" values="0" collectionTime="1509039578070" />
+      <project id="kfp" values="0" collectionTime="1501181240178" />
+      <project id="ts-demo" values="0" collectionTime="1496434981608" />
+      <project id="project" values="0" collectionTime="1482953300127" />
+      <project id="untitled" values="0" collectionTime="1470267259609" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="joomla-catalog-demo" values="ECMAScript 5.1" collectionTime="1509091431825" />
+      <project id="now-hiring" values="ECMAScript 5.1" collectionTime="1509117125730" />
+      <project id="ridestore" values="ECMAScript 5.1" collectionTime="1491085535816" />
+      <project id="flex-demo" values="JSX Harmony" collectionTime="1484856702601" />
+      <project id="wp-catalog-demo" values="ECMAScript 5.1" collectionTime="1509878138679" />
+      <project id="html-responsive-demo" values="ECMAScript 5.1" collectionTime="1480925119810" />
+      <project id="testAssignment" values="ECMAScript 5.1" collectionTime="1483477847095" />
+      <project id="angular" values="ECMAScript 6" collectionTime="1482701222653" />
+      <project id="knigaza" values="ECMAScript 5.1" collectionTime="1494761848759" />
+      <project id="nmikhno-skatecamp" values="ECMAScript 5.1" collectionTime="1482773008717" />
+      <project id="landing3" values="ECMAScript 5.1" collectionTime="1509039577890" />
+      <project id="kfp" values="ECMAScript 5.1" collectionTime="1501181240178" />
+      <project id="ts-demo" values="ECMAScript 5.1" collectionTime="1496434981551" />
+      <project id="project" values="ECMAScript 6" collectionTime="1482953299833" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1470267259585" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="joomla-catalog-demo" values="Project,Project" collectionTime="1509091431825" />
+      <project id="now-hiring" values="Project,Project" collectionTime="1509117125730" />
+      <project id="ridestore" values="Project,Directory,Project,Project" collectionTime="1491085535816" />
+      <project id="flex-demo" values="Project,Project,Project" collectionTime="1484856702601" />
+      <project id="wp-catalog-demo" values="Project,Project" collectionTime="1509878138679" />
+      <project id="html-responsive-demo" values="Project,Project" collectionTime="1480925119810" />
+      <project id="testAssignment" values="Project,Project" collectionTime="1483477847095" />
+      <project id="angular" values="Project,Project,Project,Directory" collectionTime="1482701222653" />
+      <project id="knigaza" values="Project,Project" collectionTime="1494761848759" />
+      <project id="nmikhno-skatecamp" values="Project,Project" collectionTime="1482773008717" />
+      <project id="landing3" values="Project,Project" collectionTime="1509039577890" />
+      <project id="kfp" values="Project,Project" collectionTime="1501181240178" />
+      <project id="ts-demo" values="Project,Project" collectionTime="1496434981551" />
+      <project id="project" values="Project,Directory,Project,Project" collectionTime="1482953299832" />
+      <project id="untitled" values="Project,Project" collectionTime="1470267259585" />
+    </group>
+    <group name="Git">
+      <project id="joomla-catalog-demo" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1509091431825" />
+      <project id="now-hiring" values="data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,data.remote.branches.count.1,data.remotes.in.project.1,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1509117125729" />
+      <project id="ridestore" values="config.force.push.enabled,data.remote.branches.count.8+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.2+,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+" collectionTime="1491085535678" />
+      <project id="flex-demo" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1484856702102" />
+      <project id="wp-catalog-demo" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,data.local.branches.count.1,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1509878138677" />
+      <project id="html-responsive-demo" values="config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1480925119266" />
+      <project id="testAssignment" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remote.branches.count.1,data.local.branches.count.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled" collectionTime="1483477846587" />
+      <project id="angular" values="config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.local.branches.count.1,config.ssh.enabled,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.save.policy.STASH,data.remotes.in.project.2+,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1482701222645" />
+      <project id="knigaza" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.0,config.push.update.all.roots.enabled,data.local.branches.count.0,data.remote.branches.count.0,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1494761848757" />
+      <project id="nmikhno-skatecamp" values="config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.2+,data.local.branches.count.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.2+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1482773008642" />
+      <project id="landing3" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.warn.about.crlf.enabled" collectionTime="1509039577889" />
+      <project id="kfp" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1501181240178" />
+      <project id="ts-demo" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.0,config.warn.about.detached.enabled,data.local.branches.count.0,data.remotes.in.project.0,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1496434981550" />
+      <project id="project" values="data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remotes.in.project.2+,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1482953299219" />
+      <project id="untitled" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled" collectionTime="1470267258912" />
+    </group>
+    <group name="images.ide.background">
+      <project id="joomla-catalog-demo" values="editor 0,frame 0" collectionTime="1509091431824" />
+      <project id="now-hiring" values="frame 0,editor 0" collectionTime="1509117125728" />
+      <project id="ridestore" values="frame 0,editor 0" collectionTime="1491085535678" />
+      <project id="flex-demo" values="frame 0,editor 0" collectionTime="1484856702087" />
+      <project id="wp-catalog-demo" values="editor 0,frame 0" collectionTime="1509878138676" />
+      <project id="html-responsive-demo" values="frame 0,editor 0" collectionTime="1480925119249" />
+      <project id="testAssignment" values="editor 0,frame 0" collectionTime="1483477846586" />
+      <project id="angular" values="editor 0,frame 0" collectionTime="1482701222645" />
+      <project id="knigaza" values="editor 0,frame 0" collectionTime="1494761848734" />
+      <project id="nmikhno-skatecamp" values="frame 0,editor 0" collectionTime="1482773008641" />
+      <project id="landing3" values="frame 0,editor 0" collectionTime="1509039577888" />
+      <project id="kfp" values="frame 0,editor 0" collectionTime="1501181240178" />
+      <project id="ts-demo" values="editor 0,frame 0" collectionTime="1496434981504" />
+      <project id="project" values="frame 0,editor 0" collectionTime="1482953299218" />
+      <project id="untitled" values="frame 0,editor 0" collectionTime="1470267258897" />
+    </group>
+    <group name="php-servers">
+      <project id="joomla-catalog-demo" values="0" collectionTime="1509091431825" />
+      <project id="now-hiring" values="0" collectionTime="1509117125738" />
+      <project id="ridestore" values="0" collectionTime="1491085535816" />
+      <project id="flex-demo" values="0" collectionTime="1484856702765" />
+      <project id="wp-catalog-demo" values="0" collectionTime="1509878138693" />
+      <project id="html-responsive-demo" values="0" collectionTime="1480925120095" />
+      <project id="testAssignment" values="0" collectionTime="1483477847109" />
+      <project id="angular" values="0" collectionTime="1482701222653" />
+      <project id="knigaza" values="0" collectionTime="1494761849938" />
+      <project id="nmikhno-skatecamp" values="0" collectionTime="1482773008718" />
+      <project id="landing3" values="0" collectionTime="1509039578038" />
+      <project id="kfp" values="0" collectionTime="1501181240178" />
+      <project id="ts-demo" values="0" collectionTime="1496434981600" />
+      <project id="project" values="0" collectionTime="1482953300105" />
+      <project id="untitled" values="0" collectionTime="1470267259604" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="ridestore" values="node_modules" collectionTime="1491085535761" />
+      <project id="angular" values="node_modules" collectionTime="1482701222653" />
+      <project id="project" values="node_modules" collectionTime="1482953299832" />
+    </group>
+    <group name="php-include-path">
+      <project id="joomla-catalog-demo" values="0" collectionTime="1509091431825" />
+      <project id="now-hiring" values="0" collectionTime="1509117125732" />
+      <project id="ridestore" values="0" collectionTime="1491085535816" />
+      <project id="flex-demo" values="0" collectionTime="1484856702749" />
+      <project id="wp-catalog-demo" values="0" collectionTime="1509878138684" />
+      <project id="html-responsive-demo" values="0" collectionTime="1480925120078" />
+      <project id="testAssignment" values="0" collectionTime="1483477847097" />
+      <project id="angular" values="0" collectionTime="1482701222653" />
+      <project id="knigaza" values="0" collectionTime="1494761849903" />
+      <project id="nmikhno-skatecamp" values="0" collectionTime="1482773008718" />
+      <project id="landing3" values="0" collectionTime="1509039578023" />
+      <project id="kfp" values="0" collectionTime="1501181240178" />
+      <project id="ts-demo" values="0" collectionTime="1496434981571" />
+      <project id="project" values="0" collectionTime="1482953300076" />
+      <project id="untitled" values="0" collectionTime="1470267259589" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.HTML5 Boilerplate" count="1" />
+      <entry feature="AbstractNewProjectStep.PHP Empty Project" count="2" />
+      <entry feature="AbstractNewProjectStep.React Starter Kit" count="1" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="14" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Side-by-side viewer" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_LINE" count="1" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_WORD" count="2" />
+      <entry feature="diff.TextDiffSettings.HighlightPolicy.BY_WORD_SPLIT" count="2" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="1" />
+      <entry feature="execute.js.build_tools.npm.Run" count="1" />
+      <entry feature="git.branch.checkout.local" count="5" />
+      <entry feature="git.branch.create.new" count="2" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Command_Line_Tool_Support" count="3" />
+      <entry feature="ide.settings.Confirmation" count="1" />
+      <entry feature="ide.settings.Data_Views" count="1" />
+      <entry feature="ide.settings.Deployment" count="9" />
+      <entry feature="ide.settings.Directories" count="1" />
+      <entry feature="ide.settings.Docker" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JSHint" count="1" />
+      <entry feature="ide.settings.JSLint" count="2" />
+      <entry feature="ide.settings.JavaScript" count="5" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Language_Injections" count="1" />
+      <entry feature="ide.settings.Libraries" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="1" />
+      <entry feature="ide.settings.PHP" count="1" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Scopes" count="1" />
+      <entry feature="ide.settings.Servers" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.TextMate_Bundles" count="2" />
+      <entry feature="ide.settings.Time_Tracking" count="2" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ideaapp.started" count="72" />
+      <entry feature="terminal.linux" count="64" />
+      <entry feature="tips.of.the.day.next" count="8" />
+      <entry feature="tips.of.the.day.prev" count="2" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="1" />
+      <entry feature="vcs.log.Refresh" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="7" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>
