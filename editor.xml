@@ -1,0 +1,20 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="BACKGROUND" value="3c3f41" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="3" />
+    </pattern>
+    <filter name="test">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>
