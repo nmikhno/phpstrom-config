@@ -3,23 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cards_slider/index.html" timestamp="1532019898084">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="35" column="9" />
-        <mark key="^" line="35" column="9" />
+      <file name="$USER_HOME$/projects/cards_slider/index.html" timestamp="1532029397885">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="35" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">ICAgICAgICAlJQo=</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>Список</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>asd</text>
+        <text>Список</text>
       </register>
     </registers>
     <search>
