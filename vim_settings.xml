@@ -19,6 +19,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/estimates.reducers.ts" timestamp="1533400388428">
+        <mark key="'" line="60" column="11" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool/package.json" timestamp="1532178388812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -44,15 +50,22 @@
       <jump line="22" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
+      <jump line="59" column="11" filename="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/estimates.reducers.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAlJQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdjQgYXMgdXVpZCB9IGZyb20gJ3V1aWQnOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdjQgYXMgdXVpZCB9IGZyb20gJ3V1aWQnOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdjQgYXMgdXVpZCB9IGZyb20gJ3V1aWQnOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAlJQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="-" type="4">
