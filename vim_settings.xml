@@ -10,6 +10,15 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1533396567002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/package.json" timestamp="1533395841175">
+        <mark key="[" line="20" column="113" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="4" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool/package.json" timestamp="1532178388812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
