@@ -16,6 +16,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/step-two/step-two.component.ts" timestamp="1533391330062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="35" column="0" filename="$USER_HOME$/projects/cards_slider/index.html" />
@@ -36,13 +41,13 @@
         <text encoding="base64">ICAgICAgICAlJQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Список</text>
+        <text>`</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Список</text>
+        <text>`</text>
       </register>
     </registers>
     <search>
@@ -82,6 +87,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
