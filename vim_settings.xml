@@ -20,11 +20,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/my-diary-app/src/app/app-routing.module.ts" timestamp="1535917703528">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/app-routing.module.ts" timestamp="1535919625015">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="54" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/app.module.ts" timestamp="1533401038845">
         <mark key="[" line="31" column="0" />
@@ -61,7 +61,7 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/my-diary-app/src/app/diary/diary.module.ts" timestamp="1535915259775">
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/diary/diary.module.ts" timestamp="1535919491533">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="17" />
         <mark key="." line="11" column="17" />
@@ -102,36 +102,44 @@
       <jump line="59" column="11" filename="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/estimates.reducers.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>{
+    path: '',
+    pathMatch: 'full',
+    redirectTo: '/diary'
+  }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>{
+    path: '',
+    pathMatch: 'full',
+    redirectTo: '/diary'
+  }</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHBhdGhNYXRjaDogJ2Z1bGwnLAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGhNYXRjaDogJ2Z1bGwnLAo=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>'
   },</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPgogIDxoMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdlbGNvbWUgdG8ge3sgdGl0bGUgfX0hCg==</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPgogIDxoMT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L2gxPgo=</text>
+        <text encoding="base64">ICAgIFdlbGNvbWUgdG8ge3sgdGl0bGUgfX0hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC91bD4K</text>
+        <text encoding="base64">ICA8L2gxPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8L2xpPgo=</text>
+        <text encoding="base64">PC91bD4K</text>
       </register>
       <register name="-" type="4">
         <text>diary</text>
