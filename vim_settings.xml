@@ -31,6 +31,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/app-routing.module.ts" timestamp="1535908475106">
+        <mark key="[" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/app.module.ts" timestamp="1533401038845">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -46,6 +49,15 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/app.module.ts" timestamp="1535908095906">
+        <mark key="[" line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/my-diary-app/src/environments/environment.ts" timestamp="1535907620616">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -67,8 +79,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICFlbnZpcm9ubWVudC5wcm9kdWN0aW9uID8gU3RvcmVEZXZ0b29sc01vZHVsZS5pbnN0cnVtZW50KCkgOiBbXSwK</text>
@@ -89,7 +101,7 @@
         <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -132,6 +144,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
