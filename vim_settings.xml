@@ -19,6 +19,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535906043797">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/estimates.reducers.ts" timestamp="1533400388428">
         <mark key="'" line="60" column="11" />
         <mark key="[" line="1" column="0" />
