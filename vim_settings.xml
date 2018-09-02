@@ -10,42 +10,30 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533396567002">
+      <file name="/Dummy.txt" timestamp="1535916096684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1535913274858">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/package.json" timestamp="1533395841175">
-        <mark key="[" line="20" column="113" />
-        <mark key="]" line="21" column="4" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="4" />
-      </file>
+      <file name="$USER_HOME$/projects/my-diary-app/node_modules/@angular/router/src/config.d.ts" timestamp="1535914525302" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1535906043797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/estimates.reducers.ts" timestamp="1533400388428">
-        <mark key="'" line="60" column="11" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/my-diary-app/src/app/app-routing.module.ts" timestamp="1535908475106">
-        <mark key="[" line="4" column="24" />
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/app-routing.module.ts" timestamp="1535915897003">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/app.module.ts" timestamp="1533401038845">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool/package.json" timestamp="1532178388812">
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/app.component.html" timestamp="1535915339070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/step-two/step-two.component.ts" timestamp="1533391330062">
@@ -53,8 +41,41 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/my-diary-app/src/app/app.module.ts" timestamp="1535908095906">
-        <mark key="[" line="12" column="17" />
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/app.module.ts" timestamp="1535915538029">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1535913274858">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/diary/diary-routing.module.ts" timestamp="1535916525828">
+        <mark key="[" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/package.json" timestamp="1533395841175">
+        <mark key="[" line="20" column="113" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/my-diary-app/src/app/diary/diary.module.ts" timestamp="1535915259775">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool_restored/src/app/estimates/estimates.reducers.ts" timestamp="1533400388428">
+        <mark key="'" line="60" column="11" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/qa-estimation-tool/package.json" timestamp="1532178388812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/my-diary-app/src/environments/environment.ts" timestamp="1535907620616">
         <mark key="[" line="15" column="0" />
@@ -83,28 +104,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>forChild</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICFlbnZpcm9ubWVudC5wcm9kdWN0aW9uID8gU3RvcmVEZXZ0b29sc01vZHVsZS5pbnN0cnVtZW50KCkgOiBbXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0b3JlTW9kdWxlLmZvclJvb3QocmVkdWNlcnMsIHsgbWV0YVJlZHVjZXJzIH0pLAo=</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPgogIDxoMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdjQgYXMgdXVpZCB9IGZyb20gJ3V1aWQnOwo=</text>
+        <text encoding="base64">ICAgIFdlbGNvbWUgdG8ge3sgdGl0bGUgfX0hCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdjQgYXMgdXVpZCB9IGZyb20gJ3V1aWQnOwo=</text>
+        <text encoding="base64">ICA8L2gxPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAlJQo=</text>
+        <text encoding="base64">PC91bD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">ICA8L2xpPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxoMj48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciIgaHJlZj0iaHR0cHM6Ly9ibG9nLmFuZ3VsYXIuaW8vIj5Bbmd1bGFyIGJsb2c8L2E+PC9oMj4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8bGk+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>forChild</text>
       </register>
     </registers>
     <search>
@@ -150,6 +177,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

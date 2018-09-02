@@ -2,6 +2,9 @@
   <JSCodeStyleSettings>
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -20,5 +23,11 @@
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
